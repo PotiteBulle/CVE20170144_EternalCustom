@@ -1,4 +1,4 @@
-# CVE-2017-0144 EternalBlue
+# CVE-2017-0144 EternalBlue (Custom Code MSF)
 Le code analyse la réponse du serveur cible après une requête SMB pour détecter les versions vulnérables et des configurations à risque, comme la désactivation de la signature SMB ou l'activation du compte invité. Il offre aussi des options pour la journalisation et l'envoi d'alertes par email en cas de vulnérabilité.
 
 
