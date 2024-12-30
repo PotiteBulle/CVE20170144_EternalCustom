@@ -12,7 +12,7 @@ class MetasploitModule < Msf::Auxiliary
         and configurations to identify potential vulnerabilities, including EternalBlue (MS17-010).
         Includes enhanced alerting and reporting capabilities.
       },
-      'Author'         => ['Potate'], # Auteur du script
+      'Author'         => ['PotiteBulle'],
       'License'        => MSF_LICENSE,
       'References'     => [
         ['CVE', '2017-0144'],
